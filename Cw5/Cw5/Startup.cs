@@ -38,7 +38,7 @@ namespace Cw5
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, IEnrollmentDbService service)
         {
             if (env.IsDevelopment())
             {
@@ -55,11 +55,22 @@ namespace Cw5
             app.UseMiddleware<LoggingMiddleware>();
 
             //Middleware walidacja indeksu
-            app.Use(async (context, next) => {
-                if (!context.Request.Headers.ContainsKey("IndexNumber"))
+            app.Use(async (context, next) =>
+            {
+                if (context.Request.Headers.ContainsKey("Index"))
                 {
+                    //Index header exists, check if is in database
+                    if (!service.Validate(context.Request.Headers["Index"].ToString()))
+                    {
+                        context.Response.StatusCode = StatusCodes.Status401Unauthorized;
+                        await context.Response.WriteAsync("Nieautoryzowany dostep, indeks niepoprawny");
+                    }
+                }
+                else
+                {
+                    //IIndex header does not exist, unauthorized access attempt
                     context.Response.StatusCode = StatusCodes.Status401Unauthorized;
-                    await context.Response.WriteAsync("Musisz podac numer indeksu");
+                    await context.Response.WriteAsync("Nieautoryzowany dostep, podaj w³asciwy indeksu");
                     return;
                 }
                 await next();

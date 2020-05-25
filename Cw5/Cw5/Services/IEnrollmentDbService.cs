@@ -12,6 +12,8 @@ namespace Cw5.Services
         public EnrollResponse EnrollStudent (EnrollStudentRequest request);
         public PromoteStudentResponse PromoteStudents(PromoteStudentRequest request);
 
+        Boolean Validate(String index);
+
 
 
     }

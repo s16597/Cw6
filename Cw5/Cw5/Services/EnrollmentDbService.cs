@@ -143,5 +143,28 @@ namespace Cw5.Services
             return response;
         }
 
+        public bool Validate(string index)
+        {
+            using (var client = new SqlConnection("Data Source = db-mssql.pjwstk.edu.pl; Initial Catalog = s16597; Integrated Security = True"))
+            {
+                using (var command = new SqlCommand())
+                {
+                    command.Connection = client;
+                    client.Open();
+                    command.CommandText = "SELECT * FROM Student st WHERE st.IndexNumber Like @Index";
+                    command.Parameters.AddWithValue("Index", index);
+                    var dr = command.ExecuteReader();
+                    if (dr.Read())
+                    {
+                        return true;
+                    }
+                    else
+                    {
+                        return false;
+                    }
+                }
+            }
+        }
+
     }
 }

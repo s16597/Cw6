@@ -1,0 +1,511 @@
+REQUEST timestamp:20200525044832
+PATH: /api/enrollments
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525044832
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525045112
+PATH: /enrollmentStudent
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525045112
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525045129
+PATH: /enrollmentStudent/s15432
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525045129
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525050454
+PATH: /api/enrollments
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525050454
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525050504
+PATH: /api/enrollments/s16321
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525050504
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525051702
+PATH: /api/enrollments/s11326
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525051702
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525051803
+PATH: /promotions
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525051803
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525051807
+PATH: /promotions
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525051807
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525051826
+PATH: /enrollmentStudent
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525051826
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525051913
+PATH: /promotions
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525051913
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525052306
+PATH: /promotions/18743
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525052306
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525052332
+PATH: /api/students/s18743
+METHOD: POST
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525052409
+PATH: /promotions/14567
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525052409
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525052444
+PATH: /api/enrollments
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525052444
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525052515
+PATH: /api/enrollments/enrollmentStudent
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525052515
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525052536
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525052712
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s12398"
+	
+	
+	
+}
+REQUEST timestamp:20200525052714
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s12398"
+	
+	
+	
+}
+REQUEST timestamp:20200525052717
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s12398"
+	
+	
+	
+}
+REQUEST timestamp:20200525054231
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s12398",
+	"Firstname":"Jakub",
+	"LastName":"Luczyk",
+	"BirtDate":"2010/02/15",
+	"Name":"Psychologia"
+	
+	
+	
+}
+REQUEST timestamp:20200525054233
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s12398",
+	"Firstname":"Jakub",
+	"LastName":"Luczyk",
+	"BirtDate":"2010/02/15",
+	"Name":"Psychologia"
+	
+	
+	
+}
+REQUEST timestamp:20200525054248
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s12398",
+	"Firstname":"Jakub",
+	"LastName":"Lubczyk",
+	"BirtDate":"2010/02/15",
+	"Name":"Psychologia"
+	
+	
+	
+}
+REQUEST timestamp:20200525054249
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s12398",
+	"Firstname":"Jakub",
+	"LastName":"Lubczyk",
+	"BirtDate":"2010/02/15",
+	"Name":"Psychologia"
+	
+	
+	
+}
+REQUEST timestamp:20200525054250
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s12398",
+	"Firstname":"Jakub",
+	"LastName":"Lubczyk",
+	"BirtDate":"2010/02/15",
+	"Name":"Psychologia"
+	
+	
+	
+}
+REQUEST timestamp:20200525054324
+PATH: /api/enrollments
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525054335
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s12398",
+	"Firstname":"Jakub",
+	"LastName":"Lubczyk",
+	"BirtDate":"2010/02/15",
+	"Name":"Psychologia"
+	
+	
+	
+}
+REQUEST timestamp:20200525060937
+PATH: /api/enrollments
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525060937
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525061049
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s13654",
+	"FirstName":"Lukrecja",
+	"LastName":"Ładna",
+	"BirthDate":"2018-01-12",
+	"Name":"Informatyka"
+	
+	
+	
+}
+REQUEST timestamp:20200525061050
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s13654",
+	"FirstName":"Lukrecja",
+	"LastName":"Ładna",
+	"BirthDate":"2018-01-12",
+	"Name":"Informatyka"
+	
+	
+	
+}
+REQUEST timestamp:20200525061051
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s13654",
+	"FirstName":"Lukrecja",
+	"LastName":"Ładna",
+	"BirthDate":"2018-01-12",
+	"Name":"Informatyka"
+	
+	
+	
+}
+REQUEST timestamp:20200525061159
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"IndexNumber":"s13654",
+	"FirstName":"Lukrecja",
+	"LastName":"Ładna",
+	"BirthDate":"2018-01-12",
+	"Name":"Informatyka"
+	
+	
+	
+}
+REQUEST timestamp:20200525074758
+PATH: /api/enrollments/swagger
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525074758
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525074831
+PATH: /api/enrollments/swagger/v1/swagger.json
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525074831
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525081050
+PATH: /api/enrollments
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525081050
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525081103
+PATH: /api/enrollments/s16597
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525081103
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525082216
+PATH: /api/enrollments
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525082216
+PATH: /favicon.ico
+METHOD: GET
+QUERY: 
+BODY: 
+REQUEST timestamp:20200525082427
+PATH: /api/enrollments
+METHOD: POST
+QUERY: 
+BODY: {
+	"Index":"s13654",
+	"FirstName":"Lukrecja",
+	"LastName":"Ładna",
+	"BirthDate":"2018-01-12",
+	"Name":"Informatyka"
+	
+	
+	
+}
+REQUEST timestamp:20200525082612
+PATH: /api/enrollments
+METHOD: POST
+QUERY: 
+BODY: {
+	"Index":"s17629",
+	"FirstName":"Lukrecja",
+	"LastName":"Ładna",
+	"BirthDate":"2018-01-12",
+	"Name":"Informatyka"
+	
+	
+	
+}
+REQUEST timestamp:20200525082614
+PATH: /api/enrollments
+METHOD: POST
+QUERY: 
+BODY: {
+	"Index":"s17629",
+	"FirstName":"Lukrecja",
+	"LastName":"Ładna",
+	"BirthDate":"2018-01-12",
+	"Name":"Informatyka"
+	
+	
+	
+}
+REQUEST timestamp:20200525082615
+PATH: /api/enrollments
+METHOD: POST
+QUERY: 
+BODY: {
+	"Index":"s17629",
+	"FirstName":"Lukrecja",
+	"LastName":"Ładna",
+	"BirthDate":"2018-01-12",
+	"Name":"Informatyka"
+	
+	
+	
+}
+REQUEST timestamp:20200525082617
+PATH: /api/enrollments
+METHOD: POST
+QUERY: 
+BODY: {
+	"Index":"s17629",
+	"FirstName":"Lukrecja",
+	"LastName":"Ładna",
+	"BirthDate":"2018-01-12",
+	"Name":"Informatyka"
+	
+	
+	
+}
+REQUEST timestamp:20200525082922
+PATH: /api/enrollments/s17629
+METHOD: POST
+QUERY: 
+BODY: {
+	"Index":"s17629",
+	"FirstName":"Lukrecja",
+	"LastName":"Ładna",
+	"BirthDate":"2018-01-12",
+	"Name":"Informatyka"
+	
+	
+	
+}
+REQUEST timestamp:20200525083011
+PATH: /api/enrollments/enrollmentStudent
+METHOD: POST
+QUERY: 
+BODY: {
+	"Index":"s17629",
+	"FirstName":"Lukrecja",
+	"LastName":"Ładna",
+	"BirthDate":"2013-01-28",
+	"Name":"Psychologia"
+	
+	
+	
+}
+REQUEST timestamp:20200525083748
+PATH: /api/enrollments
+METHOD: GET
+QUERY: 
+BODY: {
+	"Index":"s17629",
+	"FirstName":"Lukrecja",
+	"LastName":"Ładna",
+	"BirthDate":"2013-01-28",
+	"Name":"Psychologia"
+	
+	
+	
+}
+REQUEST timestamp:20200525083803
+PATH: /api/enrollments
+METHOD: GET
+QUERY: 
+BODY: {
+	"Index":"s17629",
+	"FirstName":"Lukrecja",
+	"LastName":"Ładna",
+	"BirthDate":"2013-01-28",
+	"Name":"Psychologia"
+	
+	
+	
+}
